@@ -17,4 +17,6 @@ Com provisioners é possível pré-instalar aplicações, definir configuraçõe
 ##Referências
 [Site oficial](https://www.vagrantup.com/)
 
+[Vagrantbox.es](http://www.vagrantbox.es/)
+
 [Configurando um ambiente de desenvolvimento com Vagrant](http://shipit.resultadosdigitais.com.br/blog/configurando-um-ambiente-de-desenvolvimento-com-vagrant/)
